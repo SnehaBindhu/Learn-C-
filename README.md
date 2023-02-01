@@ -1,3 +1,3 @@
-# Learn C sharp and .NET day by day
+# Learn C sharp and .NET
 
 ## DAY 1
