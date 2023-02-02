@@ -1,0 +1,8 @@
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\bin\Debug\Beginner.exe.config
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\bin\Debug\Beginner.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\bin\Debug\Beginner.pdb
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\obj\Debug\Beginner.csproj.AssemblyReference.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\obj\Debug\Beginner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\obj\Debug\Beginner.csproj.CoreCompileInputs.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\obj\Debug\Beginner.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Beginner\Beginner\obj\Debug\Beginner.pdb
