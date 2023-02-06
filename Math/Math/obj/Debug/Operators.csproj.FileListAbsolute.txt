@@ -1,0 +1,8 @@
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\obj\Debug\Math.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\obj\Debug\Math.pdb
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\bin\Debug\Math.exe.config
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\bin\Debug\Math.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Math\Math\bin\Debug\Math.pdb

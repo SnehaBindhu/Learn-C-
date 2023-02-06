@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{15D0A071-C66A-495A-A933-BC4886606816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Math\Operators.csproj", "{15D0A071-C66A-495A-A933-BC4886606816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
