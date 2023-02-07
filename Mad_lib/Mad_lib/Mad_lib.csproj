@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E2208DD-67C9-4290-A561-F53DFA92AA7C}</ProjectGuid>
+    <ProjectGuid>{CCC8B588-6ABE-463B-925C-F4F79AFC8ED2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Mad_lib</RootNamespace>
     <AssemblyName>Mad_lib</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="simple_mad_lib.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

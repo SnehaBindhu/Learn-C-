@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mad_lib
 {
-    class simple_mad_lib
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -22,9 +22,9 @@ namespace Mad_lib
             person = Console.ReadLine();
 
             Console.WriteLine();
-            Console.WriteLine("Sunflowers are "+ color);
+            Console.WriteLine("Sunflowers are " + color);
             Console.WriteLine(pluralnoun + " are blue");
-            Console.WriteLine("I love " +person);
+            Console.WriteLine("I love " + person);
 
             Console.ReadLine();
         }
