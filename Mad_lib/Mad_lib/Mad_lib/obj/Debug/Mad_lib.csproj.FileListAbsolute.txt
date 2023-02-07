@@ -1,0 +1,8 @@
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\bin\Debug\Mad_lib.exe.config
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\bin\Debug\Mad_lib.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\bin\Debug\Mad_lib.pdb
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\obj\Debug\Mad_lib.csproj.AssemblyReference.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\obj\Debug\Mad_lib.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\obj\Debug\Mad_lib.csproj.CoreCompileInputs.cache
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\obj\Debug\Mad_lib.exe
+C:\Users\Sneha.Ramesh\Learning\c-sharp\Mad_lib\Mad_lib\Mad_lib\obj\Debug\Mad_lib.pdb
